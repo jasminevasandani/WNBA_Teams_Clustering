@@ -1,5 +1,5 @@
-# Using K-Means Clustering to Design the Best Teams of WNBA Players of All Time
-## (And simulating a data-driven game between the top two teams)
+# WNBA Machine Learning: K-Means Clustering
+## Clustering to Find the Best Teams & Simulating a Data-Driven "Playoff" Between the Best WNBA Players Across Time
 
 ![image](https://cdn-images-1.medium.com/max/2400/1*aXggnBMsODmD-lheAuNT4w.png)
 [Photo:](https://www.flickr.com/photos/number7cloud/43170342644) Angel McCoughtry of the Atlanta Dream playing against the Minnesota Lynx.
