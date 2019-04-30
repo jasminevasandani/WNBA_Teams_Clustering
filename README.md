@@ -1,5 +1,5 @@
 # Using K-Means Clustering to Design the Best Teams of WNBA Players of All Time
-## Includes a data-driven simulated game between the top two teams
+## (And simulating a data-driven game between the top two teams)
 
 ![image](https://cdn-images-1.medium.com/max/2400/1*aXggnBMsODmD-lheAuNT4w.png)
 
